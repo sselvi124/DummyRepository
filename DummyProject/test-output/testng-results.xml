@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T11:36:51 IST" name="Default suite" finished-at="2023-07-05T11:36:55 IST" duration-ms="3182">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T11:36:51 IST" name="Default test" finished-at="2023-07-05T11:36:55 IST" duration-ms="3182">
+      <class name="packone.One">
+        <test-method signature="my1()[pri:0, instance:packone.One@ea6147e]" started-at="2023-07-05T11:36:52 IST" name="my1" finished-at="2023-07-05T11:36:55 IST" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- my1 -->
+      </class> <!-- packone.One -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
