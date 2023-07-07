@@ -10,5 +10,6 @@ public void my1() {
 	WebDriver driver = new ChromeDriver();
 	driver.get("http://localhost:8888/");
 	//committed successfully
+	//pushed sccessfully
 }
 }
